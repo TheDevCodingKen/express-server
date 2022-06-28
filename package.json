@@ -9,6 +9,8 @@
   ],
   "version": "1.0.0",
   "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/TheDevCodingKen/express-server",
   "scripts": {
     "test": "mocha test --exit",
     "start": "node server/index.js"
