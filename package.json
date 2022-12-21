@@ -15,7 +15,6 @@
     "test": "mocha test --exit",
     "start": "node server/index.js"
   },
-  "license": "ISC",
   "dependencies": {
     "morgan": "^1.10.0"
   },
